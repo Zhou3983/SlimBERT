@@ -1,0 +1,122 @@
+cuda (1 GPUs)
+this is epoch 0
+load model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-mm_lr2e-05_steps_12271_nopruneemb_0.6.pt
+Loading the model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-mm_lr2e-05_steps_12271_nopruneemb_0.6.pt
+percentage: 0.6, prune_threshold: 0.5094512403011322
+[163, 2598, 680, 22364]
+compression rate in params W emb:  60.825255301523015
+compression rate in params WO emb:  49.84217150331226
+compression rate in neurons:  59.999689980158735
+acc:  0.8312908496732027
+no f1
+this is epoch 1
+load model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-mm_lr2e-05_steps_24542_nopruneemb_0.6.pt
+Loading the model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-mm_lr2e-05_steps_24542_nopruneemb_0.6.pt
+percentage: 0.6, prune_threshold: 0.5094512403011322
+[163, 2598, 680, 22364]
+compression rate in params W emb:  60.825255301523015
+compression rate in params WO emb:  49.84217150331226
+compression rate in neurons:  59.999689980158735
+acc:  0.8361928104575164
+no f1
+this is epoch 2
+load model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-mm_lr2e-05_steps_36813_nopruneemb_0.6.pt
+Loading the model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-mm_lr2e-05_steps_36813_nopruneemb_0.6.pt
+percentage: 0.6, prune_threshold: 0.5094512403011322
+[163, 2598, 680, 22364]
+compression rate in params W emb:  60.825255301523015
+compression rate in params WO emb:  49.84217150331226
+compression rate in neurons:  59.999689980158735
+acc:  0.8403799019607843
+no f1
+
+this is epoch 0
+load model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-mm_lr2e-05_steps_12271_nopruneemb_1.pt
+Loading the model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-mm_lr2e-05_steps_12271_nopruneemb_1.pt
+percentage: 1, prune_threshold: -10
+[0, 0, 0, 0]
+compression rate in params W emb:  99.92380199808095
+compression rate in params WO emb:  99.90243902439025
+compression rate in neurons:  100.0
+acc:  0.8400735294117647
+no f1
+this is epoch 1
+load model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-mm_lr2e-05_steps_24542_nopruneemb_1.pt
+Loading the model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-mm_lr2e-05_steps_24542_nopruneemb_1.pt
+percentage: 1, prune_threshold: -10
+[0, 0, 0, 0]
+compression rate in params W emb:  99.92380199808095
+compression rate in params WO emb:  99.90243902439025
+compression rate in neurons:  100.0
+acc:  0.8425245098039216
+no f1
+this is epoch 2
+load model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-mm_lr2e-05_steps_36813_nopruneemb_1.pt
+Loading the model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-mm_lr2e-05_steps_36813_nopruneemb_1.pt
+percentage: 1, prune_threshold: -10
+[0, 0, 0, 0]
+compression rate in params W emb:  99.92380199808095
+compression rate in params WO emb:  99.90243902439025
+compression rate in neurons:  100.0
+acc:  0.8489583333333334
+no f1
+cuda (1 GPUs)
+this is epoch 0
+load model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-mm_lr2e-05_steps_12271_nopruneemb_0.5.pt
+Loading the model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-mm_lr2e-05_steps_12271_nopruneemb_0.5.pt
+percentage: 0.5, prune_threshold: 0.6195661425590515
+[264, 3582, 1016, 27395]
+compression rate in params W emb:  50.93709560232874
+compression rate in params WO emb:  37.18175413090937
+compression rate in neurons:  49.99844990079365
+acc:  0.8278705211726385
+no f1
+this is epoch 1
+load model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-mm_lr2e-05_steps_24542_nopruneemb_0.5.pt
+Loading the model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-mm_lr2e-05_steps_24542_nopruneemb_0.5.pt
+percentage: 0.5, prune_threshold: 0.6195661425590515
+[264, 3582, 1016, 27395]
+compression rate in params W emb:  50.93709560232874
+compression rate in params WO emb:  37.18175413090937
+compression rate in neurons:  49.99844990079365
+acc:  0.8395765472312704
+no f1
+this is epoch 2
+load model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-mm_lr2e-05_steps_36813_nopruneemb_0.5.pt
+Loading the model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-mm_lr2e-05_steps_36813_nopruneemb_0.5.pt
+percentage: 0.5, prune_threshold: 0.6195661425590515
+[264, 3582, 1016, 27395]
+compression rate in params W emb:  50.93709560232874
+compression rate in params WO emb:  37.18175413090937
+compression rate in neurons:  49.99844990079365
+acc:  0.8395765472312704
+no f1
+load model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-m_lr2e-05_steps_12271_nopruneemb_0.4.pt
+Loading the model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-m_lr2e-05_steps_12271_nopruneemb_0.4.pt
+percentage: 0.4, prune_threshold: 0.7173814475536346
+[426, 5085, 1376, 31821]
+compression rate in params W emb:  40.44699153120355
+compression rate in params WO emb:  23.750630457693468
+compression rate in neurons:  39.99875992063492
+acc:  0.8079044117647058
+no f1
+this is epoch 1
+load model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-m_lr2e-05_steps_24542_nopruneemb_0.4.pt
+Loading the model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-m_lr2e-05_steps_24542_nopruneemb_0.4.pt
+percentage: 0.4, prune_threshold: 0.7173814475536346
+[426, 5085, 1376, 31821]
+compression rate in params W emb:  40.44699153120355
+compression rate in params WO emb:  23.750630457693468
+compression rate in neurons:  39.99875992063492
+acc:  0.8168913398692811
+no f1
+this is epoch 2
+load model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-m_lr2e-05_steps_36813_nopruneemb_0.4.pt
+Loading the model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-m_lr2e-05_steps_36813_nopruneemb_0.4.pt
+percentage: 0.4, prune_threshold: 0.7173814475536346
+[426, 5085, 1376, 31821]
+compression rate in params W emb:  40.44699153120355
+compression rate in params WO emb:  23.750630457693468
+compression rate in neurons:  39.99875992063492
+acc:  0.8185253267973857
+no f1

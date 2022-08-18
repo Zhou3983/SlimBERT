@@ -1,0 +1,19 @@
+{
+    "vocab_size": 30522,
+    "dim": 768,
+    "seq_len": 128,
+    "n_segments": 2,
+    "drop_out": 0.1,
+    "n_layers": 12,
+    "n_heads": 12,
+    "n_hidden": 3072,
+    "mode": "eval",
+    "save_model_prefix": "/home/rickxu/projects/def-karray/rickxu/models/ns",
+    "seed": 12,
+    "prune_emb": true,
+    "emb_factor": 1,
+    "freeze_embeddings": true,
+    "masking": false,
+    "prune_attn": true,
+    "prune_ff": true
+}

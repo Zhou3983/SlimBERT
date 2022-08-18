@@ -1,0 +1,119 @@
+load model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-mm_lr2e-05_steps_12271_nopruneemb_0.6.pt
+Loading the model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-mm_lr2e-05_steps_12271_nopruneemb_0.6.pt
+percentage: 0.6, prune_threshold: 0.5094512403011322
+[163, 2598, 680, 22364]
+compression rate in params W emb:  60.825255301523015
+compression rate in params WO emb:  49.84217150331226
+compression rate in neurons:  59.999689980158735
+acc:  0.8366245928338762
+no f1
+this is epoch 1
+load model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-mm_lr2e-05_steps_24542_nopruneemb_0.6.pt
+Loading the model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-mm_lr2e-05_steps_24542_nopruneemb_0.6.pt
+percentage: 0.6, prune_threshold: 0.5094512403011322
+[163, 2598, 680, 22364]
+compression rate in params W emb:  60.825255301523015
+compression rate in params WO emb:  49.84217150331226
+compression rate in neurons:  59.999689980158735
+acc:  0.8423249185667753
+no f1
+this is epoch 2
+load model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-mm_lr2e-05_steps_36813_nopruneemb_0.6.pt
+Loading the model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-mm_lr2e-05_steps_36813_nopruneemb_0.6.pt
+percentage: 0.6, prune_threshold: 0.5094512403011322
+[163, 2598, 680, 22364]
+compression rate in params W emb:  60.825255301523015
+compression rate in params WO emb:  49.84217150331226
+compression rate in neurons:  59.999689980158735
+acc:  0.8477198697068404
+no f1
+
+load model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-mm_lr2e-05_steps_12271_nopruneemb_1.pt
+Loading the model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-mm_lr2e-05_steps_12271_nopruneemb_1.pt
+percentage: 1, prune_threshold: -10
+[0, 0, 0, 0]
+compression rate in params W emb:  99.92380199808095
+compression rate in params WO emb:  99.90243902439025
+compression rate in neurons:  100.0
+acc:  0.840492671009772
+no f1
+this is epoch 1
+load model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-mm_lr2e-05_steps_24542_nopruneemb_1.pt
+Loading the model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-mm_lr2e-05_steps_24542_nopruneemb_1.pt
+percentage: 1, prune_threshold: -10
+[0, 0, 0, 0]
+compression rate in params W emb:  99.92380199808095
+compression rate in params WO emb:  99.90243902439025
+compression rate in neurons:  100.0
+acc:  0.8452768729641694
+no f1
+this is epoch 2
+load model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-mm_lr2e-05_steps_36813_nopruneemb_1.pt
+Loading the model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-mm_lr2e-05_steps_36813_nopruneemb_1.pt
+percentage: 1, prune_threshold: -10
+[0, 0, 0, 0]
+compression rate in params W emb:  99.92380199808095
+compression rate in params WO emb:  99.90243902439025
+compression rate in neurons:  100.0
+acc:  0.8474144951140065
+no f1
+this is epoch 0
+load model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-mm_lr2e-05_steps_12271_nopruneemb_0.5.pt
+Loading the model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-mm_lr2e-05_steps_12271_nopruneemb_0.5.pt
+percentage: 0.5, prune_threshold: 0.6195661425590515
+[264, 3582, 1016, 27395]
+compression rate in params W emb:  50.93709560232874
+compression rate in params WO emb:  37.18175413090937
+compression rate in neurons:  49.99844990079365
+acc:  0.8279723127035831
+no f1
+this is epoch 1
+load model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-mm_lr2e-05_steps_24542_nopruneemb_0.5.pt
+Loading the model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-mm_lr2e-05_steps_24542_nopruneemb_0.5.pt
+percentage: 0.5, prune_threshold: 0.6195661425590515
+[264, 3582, 1016, 27395]
+compression rate in params W emb:  50.93709560232874
+compression rate in params WO emb:  37.18175413090937
+compression rate in neurons:  49.99844990079365
+acc:  0.8394747557003257
+no f1
+this is epoch 2
+load model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-mm_lr2e-05_steps_36813_nopruneemb_0.5.pt
+Loading the model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-mm_lr2e-05_steps_36813_nopruneemb_0.5.pt
+percentage: 0.5, prune_threshold: 0.6195661425590515
+[264, 3582, 1016, 27395]
+compression rate in params W emb:  50.93709560232874
+compression rate in params WO emb:  37.18175413090937
+compression rate in neurons:  49.99844990079365
+acc:  0.8397801302931596
+no f1
+this is epoch 0
+load model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-m_lr2e-05_steps_12271_nopruneemb_0.4.pt
+Loading the model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-m_lr2e-05_steps_12271_nopruneemb_0.4.pt
+percentage: 0.4, prune_threshold: 0.7173814475536346
+[426, 5085, 1376, 31821]
+compression rate in params W emb:  40.44699153120355
+compression rate in params WO emb:  23.750630457693468
+compression rate in neurons:  39.99875992063492
+acc:  0.8078022875816994
+no f1
+this is epoch 1
+load model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-m_lr2e-05_steps_24542_nopruneemb_0.4.pt
+Loading the model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-m_lr2e-05_steps_24542_nopruneemb_0.4.pt
+percentage: 0.4, prune_threshold: 0.7173814475536346
+[426, 5085, 1376, 31821]
+compression rate in params W emb:  40.44699153120355
+compression rate in params WO emb:  23.750630457693468
+compression rate in neurons:  39.99875992063492
+acc:  0.8167892156862745
+no f1
+this is epoch 2
+load model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-m_lr2e-05_steps_36813_nopruneemb_0.4.pt
+Loading the model from /home/rickxu/projects/def-karray/rickxu/models/ns/mnli-m_lr2e-05_steps_36813_nopruneemb_0.4.pt
+percentage: 0.4, prune_threshold: 0.7173814475536346
+[426, 5085, 1376, 31821]
+compression rate in params W emb:  40.44699153120355
+compression rate in params WO emb:  23.750630457693468
+compression rate in neurons:  39.99875992063492
+acc:  0.8183210784313726
+no f1

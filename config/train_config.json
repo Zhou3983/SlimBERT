@@ -1,0 +1,15 @@
+{
+  "task": "rte",
+  "epoch": 10,
+  "kl_fac": 1e-4,
+  "lr": 2e-05,
+  "ib_lr": 0.002,
+  "vocab": "data/uncased_L-12_H-768_A-12/vocab.txt",
+  "batch_size": 32,
+  "pretrain_model_path": "data/uncased_L-12_H-768_A-12/bert_model.ckpt",
+  "pruned_model_path": "../models/ns/qqp_KL0.0001_lr2e-05_iblr0.0002_steps_34110_nopruneemb.ptt",
+  "data_parallel": false,
+  "warm_up": 0.1,
+  "save_steps": 5000
+}
+

@@ -1,0 +1,10 @@
+{
+  "task": "cola",
+  "epoch": 10,
+  "kl_fac": 1e-4,
+  "lr": 2e-05,
+  "ib_lr": 0.002,
+  "ib_threshold": 0,
+  "data_parallel": true,
+  "eval_steps": 2104
+}
