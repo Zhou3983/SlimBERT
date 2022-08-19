@@ -1,11 +1,11 @@
 # SlimBERT - BERT Compression with Neural Slimming
 
 
-We study how to compress the BERT model in a structured pruning
-manner. We proposed the neural slimming technique to assess the importance of each
+I studied how to compress the BERT model in a structured pruning
+manner. I proposed the neural slimming technique to assess the importance of each
 neuron and designed the cost function and pruning strategy to remove neurons that make
 zero or less contribution to the prediction. After getting fine-tuned on the downstream
-tasks, the model can learn a more compact structure, and we name it SlimBERT. My thesis is currently under review and it is available [here](https://drive.google.com/drive/folders/1-DcnImpcWAb66tkEBLvEEczpxuABoPjm).
+tasks, the model can learn a more compact structure, and it is named SlimBERT. My thesis is available [here](https://uwspace.uwaterloo.ca/handle/10012/18586).
 
 ## Methods
 
