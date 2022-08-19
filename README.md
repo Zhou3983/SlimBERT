@@ -47,6 +47,7 @@ tasks.
 <img width="513" alt="image" src="https://user-images.githubusercontent.com/25696555/185281406-c795b614-2b17-462f-980f-7d0c6a25d972.png">
 
 ### Important Attention Heads in SlimBERT
+Green: High importance    Pink: Low importance
 <img width="770" alt="image" src="https://user-images.githubusercontent.com/25696555/185281563-c8be4de2-f75b-43a1-b723-f0c8de2fbdcc.png">
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/25696555/185281709-f82f9989-3c48-4518-b32c-38671628161a.png">
 
